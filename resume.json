@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "Yash Meena",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1121@iiitkota.ac.in",
+        "phone": "+918947958284",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Jaipur",
+            "postalCode": "302034",
+            "city": "Jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "@YashMee010703",
+                "url": "https://twitter.com/YashMee010703"
+            },
+            {
+                "network": "Github",
+                "username": "YASH0123456",
+                "url": "https://github.com/YASH0123456"
+            },
+            {
+                "network": "linkedin",
+                "username": "YASH MEENA",
+                "url": "https://www.linkedin.com/in/yash-meena-417b22235/"
+            },
+            {
+                "network": "Instagram",
+                "username": "flan.ker130503",
+                "url": "https://www.instagram.com/flan.ker130503/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "r",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "Coding Ninjas",
+            "position": "Ninja Entreprenaur",
+            "website": "https://www.codingninjas.com/",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+    ]
+}
